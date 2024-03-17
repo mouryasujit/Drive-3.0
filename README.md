@@ -11,7 +11,7 @@
 
 - Solidity
 - Expressjs
-- mongoose
+- Smart Contract(using solidity)
 
 ## Connection of front end and backend
 
@@ -19,7 +19,6 @@
  
 ## Database
 
-- Smart Contract
 - Pinata(for image)
 - Hardhat(Block chain)
 
